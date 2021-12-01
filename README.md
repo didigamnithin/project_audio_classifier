@@ -1,6 +1,6 @@
 SOUND CLASSIFIER USING MACHINE LEARNING
-Lokendra Kumar Meena
-(180383) 
+Didigam Nithin
+(180245)
 
 Objective – To classify sound into music, speech and silence using mfcc(Mel
                          Frequency Cepstral Coefficient) features.
